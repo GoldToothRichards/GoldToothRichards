@@ -1,4 +1,4 @@
-# Hi there, I'm Jacob Crabtree 👋
+# Hello, I'm Jacob Crabtree 👋
 
 Welcome to my GitHub page!
 
