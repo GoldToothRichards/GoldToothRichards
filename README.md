@@ -76,4 +76,4 @@ Feel free to reach out to me about anything you find interesting in my projects:
 
 ## ⚡ Fun fact
 
-I once wrote an original mathematical proof of a counting theorem in graph theory, which you can find in my paper ["Another Enumeration of Caterpillar Trees"](https://arxiv.org/abs/1810.11744).
+I once published an original mathematical proof of a counting theorem in graph theory, which you can find in my paper ["Another Enumeration of Caterpillar Trees"](https://arxiv.org/abs/1810.11744).
