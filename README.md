@@ -1,6 +1,6 @@
 # Hi there, I'm Jacob Crabtree 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub page!
 
 I'm a developer, a blockchain & AI enthusiast, and a qualified nerd. I'm currently working as the Backend Engineering Lead at [Sizzle.gg](https://sizzle.gg).
 
