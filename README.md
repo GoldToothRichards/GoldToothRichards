@@ -2,13 +2,7 @@
 
 Welcome to my GitHub profile! I'm a developer, a blockchain/AI enthusiast, and a qualified nerd. I'm currently working as the Backend Engineering Lead at [Sizzle.gg](https://sizzle.gg).
 
-## 🚀 Quick Links
-
-- 📝 Personal Blog: [jacobcrabtree.me](https://jacobcrabtree.me/)
-- 💼 LinkedIn: [Jacob Crabtree](https://www.linkedin.com/in/jacob-crabtree-7ab72610a/)
-- 🐦 Twitter: [@crabtr26](https://x.com/crabtr26)
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & Technologies
 
 ### Programming Languages
 
@@ -57,7 +51,8 @@ Welcome to my GitHub profile! I'm a developer, a blockchain/AI enthusiast, and a
 
 ## 🌱 I'm currently learning
 
-- TypeScript
+- Frontend/TypeScript
+- Rust
 - WebAssembly
 
 ## 💬 Ask me about
@@ -73,7 +68,3 @@ Feel free to reach out to me about anything you find interesting in my projects:
 - 📧 Email: [crabtr26@proton.me](mailto:crabtr26@proton.me)
 - 💼 LinkedIn: [Jacob Crabtree](https://www.linkedin.com/in/jacob-crabtree-7ab72610a/)
 - 🐦 Twitter: [@crabtr26](https://x.com/crabtr26)
-
-## ⚡ Fun fact
-
-I have published an original mathematical proof of a counting theorem in graph theory, which you can find in my paper ["Another Enumeration of Caterpillar Trees"](https://arxiv.org/abs/1810.11744).
