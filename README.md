@@ -68,5 +68,6 @@ I'm a developer, blockchain & AI enthusiast, and a qualified nerd. I'm currently
 Feel free to reach out to me about anything you find interesting in my projects:
 
 - 📧 Email: [crabtr26@proton.me](mailto:crabtr26@proton.me)
+- 📆 Calendly: [crabtr26](https://calendly.com/crabtr26)
 - 💼 LinkedIn: [Jacob Crabtree](https://www.linkedin.com/in/jacob-crabtree-7ab72610a/)
 - 🐦 Twitter: [@crabtr26](https://x.com/crabtr26)
