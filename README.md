@@ -53,14 +53,15 @@ I'm a developer, blockchain & AI enthusiast, and a qualified nerd. I'm currently
 
 ## 🌱 I'm currently learning
 
-- Frontend/TypeScript
+- ML & MLOps
+- Kubernetes
 - Rust
-- WebAssembly
 
 ## 💬 Ask me about
 
+- AI, LLM's, and RAG pipelines
+- My hot takes on tooling, CI/CD, and best practices for Python
 - Blockchain technology and cryptocurrencies
-- Data engineering and big data processing
 - Group theory, Geometry, and Topology
 
 ## 📫 How to reach me
